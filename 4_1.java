@@ -2,7 +2,6 @@ package ru.podyukov.java;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-import java.util.Spliterator;
 
 public class Main {
     public static void main(String[] args) {
